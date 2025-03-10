@@ -1,8 +1,8 @@
-📘## DocuMind AI
+## 📘DocuMind AI
 
 DocuMind AI is an intelligent document assistant that allows users to upload PDF documents and ask questions about their content using AI-powered language models.
 
-🚀 ## Features
+## 🚀 Features
 
 Upload and analyze research documents (PDFs)
 
@@ -14,7 +14,7 @@ Generate AI-powered answers based on context
 
 Interactive chat interface using Streamlit
 
-🛠️ ## Tech Stack
+## 🛠️ Tech Stack
 
 Python (Backend Processing)
 
@@ -27,7 +27,7 @@ Ollama Embeddings & LLM (DeepSeek-r1 Model)
 PDFPlumber (PDF Processing)
 
 Git & GitHub (Version Control)
-##📦 DocuMindAI
+## 📦 DocuMindAI
  ┣ 📂 document_store
  ┃ ┗ 📂 pdfs               # Directory for uploaded PDFs
  ┣ 📜 main.py              # Streamlit app script
